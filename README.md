@@ -10,7 +10,8 @@ www.linkedin.com/in/amosimoh
 - 🌱 I’m currently learning data science and artificial Intelligence
 - 👯 I’m looking to collaborate with internships opportunities on data science AI and building machine learning projects.
 - 💬 Ask me about how to go about learning data analysis
-- 📫 How to reach me: amosrichy@gmail.com
+---
+Connect with me : amosrichy@gmail.com
 -----
 ### I am proficient in the following skills
    - Microsoft Office Suite (Excel, PowerPoint, Word)
