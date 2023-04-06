@@ -1,5 +1,5 @@
 # Hi there, my name is Imoh Amos👋
-www.linkedin.com/in/amosimoh
+##### Connect with me : www.linkedin.com/in/amosimoh |  📪 _amosrichy@gmail.com_
 
 ---
 ### I am a Data Analyst | Product Analyst | Growth Analyst | BI Developer!!
@@ -10,9 +10,7 @@ www.linkedin.com/in/amosimoh
 - 🌱 I’m currently learning data science and artificial Intelligence
 - 👯 I’m looking to collaborate with internships opportunities on data science AI and building machine learning projects.
 - 💬 Ask me about how to go about learning data analysis
----
 
-##### Connect with me : _amosrichy@gmail.com_
 -----
 ### I am proficient in the following skills
    - Microsoft Office Suite (Excel, PowerPoint, Word)
