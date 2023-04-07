@@ -1,7 +1,7 @@
 ![Imoh_banner](https://user-images.githubusercontent.com/98132382/230597479-b101829e-f00f-4a08-af2a-eb888d2c8c3d.jpg)
 
 # Hi there, my name is Imoh Amos👋
----
+
 ### I am a Data Analyst | Product Analyst | Growth Analyst | BI Developer!!
 
 - 📊 I am a smart Data Analyst and Product Analyst with expertise in analyzing data for over 6 years. 
@@ -34,16 +34,19 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 - Microsoft Office Suite (Excel, PowerPoint, Word)
-   - Google sheets
-   - Google Analytics/Google Tag Manager
-   - Perform A/B testing and Experiments
-   - MySQL, Postgresql
-   - Amazon Redshift
-   - SnowFlake
-   - Power BI
-   - Google Data studio
-   - Mixpanel for Product Analytics
-   - Data Science with Python(Basics)
-   - Understanding of Agile scrum methodologies
+- Google sheets
+- Google Analytics/Google Tag Manager
+- Perform A/B testing and Experiments
+- MySQL, Postgresql
+- Amazon Redshift
+- SnowFlake
+- Power BI
+- Google Data studio
+- Mixpanel for Product Analytics
+- Data Science with Python(Basics)
+- Understanding of Agile scrum methodologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImohAmos&layout=compact)](https://github.com/ImohAmos)
 
