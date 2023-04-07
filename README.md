@@ -15,9 +15,11 @@
 ### Connect with me : 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/amosimoh
 
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) _https://twitter.com/amos_richy_
+
+### Reach me at :
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  _amosrichy@gmail.com_
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) _https://twitter.com/amos_richy_
 
 
 ---
@@ -36,14 +38,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-- Microsoft Office Suite (Excel, PowerPoint, Word)
 - Google sheets
-- Google Analytics/Google Tag Manager
+- Google Tag Manager
 - Perform A/B testing and Experiments
-- MySQL, Postgresql
 - Amazon Redshift
 - SnowFlake
-- Power BI
 - Google Data studio
 - Mixpanel for Product Analytics
 - Data Science with Python(Basics)
