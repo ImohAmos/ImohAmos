@@ -1,3 +1,5 @@
+![Imoh_banner](https://user-images.githubusercontent.com/98132382/230597479-b101829e-f00f-4a08-af2a-eb888d2c8c3d.jpg)
+
 # Hi there, my name is Imoh Amos👋
 ##### Connect with me : www.linkedin.com/in/amosimoh |  📪 _amosrichy@gmail.com_
 
